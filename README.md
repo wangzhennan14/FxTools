@@ -17,8 +17,8 @@ FxTools is implemented in C/C++ language, available for Linux and Mac OS X opera
  <pre>
        git clone https://github.com/BGI-shenzhen/FxTools.git
        cd FxTools-XXX;  
-	   chmod 775 bin/FxTools_Linux ; 
-	   ./bin/FxTools_Linux
+       chmod 775 bin/FxTools_Linux ; 
+       ./bin/FxTools_Linux
 
 </pre>
 
